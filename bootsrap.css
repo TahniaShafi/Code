@@ -1,0 +1,45 @@
+span{
+
+    color: blue;
+
+}
+
+.plan{
+
+    width: 100;
+
+    font-weight: bold;
+
+   
+
+}
+
+label{
+
+    width: 50;
+
+    height: 20;
+
+}
+
+.popular{
+
+    background-color: rgb(103, 210, 236);
+
+    color: white;
+
+    width: 74%;
+
+}
+
+.active{
+
+    color: black;
+
+}
+
+.grey{
+
+    background-color: rgb(192, 188, 188);
+
+}
